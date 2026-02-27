@@ -1,0 +1,15 @@
+Patrón Abstract Factory
+
+Es un patrón creacional
+Crea familias de objetos relacionados sin especificar sus clases concretas.
+Trabaja con interfaces abstractas
+
+Ventajas
+Abstraer la creación
+Cumple con el principio de responsabilidad única
+Flexibilidad
+
+Desventajas
+Rigidez en la adición de nuevos tipos
+
+Proporciona interfaces abstractas
