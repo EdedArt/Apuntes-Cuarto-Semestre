@@ -1,0 +1,15 @@
+PATRONES ADAPTER Y BRIDGE
+
+Patrón Adapter
+De diseño estructural que permite que interfaces incompatibles trabajen juntas.
+Este se utiliza cuando se quiere encapsular una interfaz existente en una nueva interfaz. Esto facilita la colaboración entre clases.
+- Objetivo la interfaz que el cliente espera
+- Adaptador Una clase que implementa la interfaz objetivo y mantiene una referencia al objeto que esta siendo adaptado
+- Adaptado La clase existente que necesita ser adaptable
+Ventajas
+- Reutilización de código
+- Interoperabilidad 
+- Flexibilidad
+
+Patrón Bridge
+es de diseño estructural que separa una abstracción de su implementación.
